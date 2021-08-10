@@ -1,3 +1,5 @@
+package Day1;
+
 public class Main_Associate {
     public static void main(String[] args) {
         BankAccount Customer1 = new BankAccount(12345678, 50, "Rahul", "rahul@something", 1234567);

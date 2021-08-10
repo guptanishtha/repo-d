@@ -1,3 +1,5 @@
+package Day1;
+
 public class AssociateBank {
 
     private String BankName;
