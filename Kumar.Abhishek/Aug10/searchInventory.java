@@ -3,6 +3,9 @@ import java.lang.NullPointerException;
 public class searchInventory {
     public static void searchByName(String query, product[] listproduct) throws productNotFound {
         //System.out.println(listproduct.length);
+        if (listproduct.length == 0){
+            System.out.println("Sorry, inventory is empty ");
+        }
         for (int i = 0; i < listproduct.length; i++) {
 
             //System.out.println(temp);
@@ -24,6 +27,9 @@ public class searchInventory {
     }
 
     public static void searchBytype(String query, product[] listproduct) throws productNotFound {
+        if (listproduct.length == 0){
+            System.out.println("Sorry, inventory is empty ");
+        }
         for (int i = 0; i < listproduct.length; i++) {
 
             try {
