@@ -1,0 +1,23 @@
+Product Name: Nike, Product price: 100.0
+Product Name: Adidas, Product price: 50.0
+Product on sale!!! Our Discounted Price: 45.0
+Product Name: Asics, Product price: 20.0
+Product on sale!!! Our Discounted Price: 18.0
+
+======================================================================
+Ordering by Price
+Product Name: Asics, Product price: 20.0
+Product on sale!!! Our Discounted Price: 18.0
+Product Name: Adidas, Product price: 50.0
+Product on sale!!! Our Discounted Price: 45.0
+Product Name: Nike, Product price: 100.0
+
+======================================================================
+Ordering by Name
+Product Name: Adidas, Product price: 50.0
+Product on sale!!! Our Discounted Price: 45.0
+Product Name: Asics, Product price: 20.0
+Product on sale!!! Our Discounted Price: 18.0
+Product Name: Nike, Product price: 100.0
+
+======================================================================
